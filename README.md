@@ -1,6 +1,6 @@
 ## Welcome 👋 This is Kenny
 
-I am a Computer Science student and the Founding Engineer / Team Lead at **Scholarty**. I specialize in full-stack web development and am currently expanding into AI.
+I am a Computer Science student and the Founding Engineer / Team Lead at **Scholarty**. I have experience in full-stack web development and am currently exploring topics in Machine Learning.
 
 - 🧙‍♂️ Level 4 Mage.
 - 🎓 Computer Science Major, Machine Learning Informatics Minor (expected 2026).
@@ -11,7 +11,7 @@ I am a Computer Science student and the Founding Engineer / Team Lead at **Schol
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=kennyH02&label=Profile%20views&color=0e75b6&style=flat" alt="Kenny's Profile Views" />
 </p>
-<p>Last Edited on: 12/22/2025 5:11 AM</p> 
+<p>Last Edited on: 1/5/2026 5:15 PM</p> 
 
 
 <!--
