@@ -2,16 +2,22 @@
 
 I am a Computer Science student and the Founding Engineer / Team Lead at **Scholarty**. I have experience in full-stack web development and am currently exploring topics in Machine Learning.
 
-- 🧙‍♂️ Level 4 Mage.
-- 🎓 Computer Science Major, Machine Learning Informatics Minor (expected 2026).
-- 🛠️ Currently building the MVP for Scholarty.
-- ⚔️ On the journey of revisiting algorithms and advanced mathematics.
+🧙‍♂️ Level 4 Mage.
+🎓 Computer Science Major, Machine Learning Informatics Minor (expected 2026).
+⚔️ On the journey of revisiting algorithms and advanced mathematics.
+
+🛠️ Projects I'm currently working on:
+- MVP for Scholarty
+- Desktop to mobile application refactoring, voice assistance on edge device
+- Campus Navagation System
+- Research and and actual implementation of AI algorithm, writing IEEE paper-like report
+- Risk analysis of third party sevices
 
 <hr>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=kennyH02&label=Profile%20views&color=0e75b6&style=flat" alt="Kenny's Profile Views" />
 </p>
-<p>Last Edited on: 1/5/2026 5:15 PM</p> 
+<p>Last Edited on: 2/3/2026 11:12 AM</p> 
 
 
 <!--
