@@ -12,14 +12,15 @@ I am a Computer Science student and the Founding Engineer / Team Lead at **Schol
 - MVP for Scholarty
 - Desktop to mobile application refactoring, voice assistance on edge device
 - Campus Navagation System
-- Research and and actual implementation of AI algorithm, writing IEEE paper-like report
+- Research and and actual implementation of AI algorithm (Topic TBD), writing IEEE paper-like report
+- Research on Depression detection with Artificial Intelligence, writing IEEE paper-like report
 - Risk analysis of third party sevices
 
 <hr>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=kennyH02&label=Profile%20views&color=0e75b6&style=flat" alt="Kenny's Profile Views" />
 </p>
-<p>Last Edited on: 2/3/2026 11:12 AM</p> 
+<p>Last Edited on: 2/3/2026 15:21 PM</p> 
 
 
 <!--
