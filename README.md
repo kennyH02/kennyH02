@@ -3,7 +3,9 @@
 I am a Computer Science student and the Founding Engineer / Team Lead at **Scholarty**. I have experience in full-stack web development and am currently exploring topics in Machine Learning.
 
 🧙‍♂️ Level 4 Mage.
+
 🎓 Computer Science Major, Machine Learning Informatics Minor (expected 2026).
+
 ⚔️ On the journey of revisiting algorithms and advanced mathematics.
 
 🛠️ Projects I'm currently working on:
